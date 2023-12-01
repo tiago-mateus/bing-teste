@@ -1,0 +1,147 @@
+{
+    "numeroOriginal": "TC 013.CIDADES.2013",
+    "codigoUnidadeGestora": "430001",
+    "papelUnidadeGestora": "1",
+    "cnpjCelebranteConvenio": "07040108000157",
+    "valorConcessao": "14588937.20",
+    "valorContrapartida": "2920588.96",
+    "dataCelebracao": "2013-09-30",
+    "dataPublicacao": "0001-01-01",
+    "dataInicioVigencia": "2013-09-30",
+    "dataFimVigencia": "2015-03-30",
+    "dataRescisao": null,
+    "dataConclusao": null,
+    "tipoTransferencia": "TIPO_TRANSFERENCIA_CONVENIO",
+    "objeto": "904271 - Obras e Serviços de Engenharia | MIGRADO DO SACC",
+    "descricaoObjeto": "Ampliação do sistema de esgotamento sanitário de Itaitinga",
+    "fontesTransferencia": [
+        {
+            "codigo": "700"
+        }
+    ],
+    "fontesContrapartida": [],
+    "domiciliosBancarios": [],
+    "ativo": true,
+    "tipoPrestacaoContas": 14,
+    "aditivos": [
+        {
+            "codigo": null,
+            "termo": "Termo 391103",
+            "dataInicioVigencia": "2015-03-31",
+            "dataFimVigencia": "2016-09-30",
+            "dataPublicacao": "2015-05-05",
+            "valorConcessao": "0.00",
+            "valorContrapartida": "0.00",
+            "objeto": "O prazo de vigência do presente termo fica prorrogado a partir do dia 30 de março de 2015 para o dia 30 de setembro de 2016."
+        },
+        {
+            "codigo": null,
+            "termo": "Termo 404553",
+            "dataInicioVigencia": "2016-10-01",
+            "dataFimVigencia": "2017-06-30",
+            "dataPublicacao": "2016-10-13",
+            "valorConcessao": "0.00",
+            "valorContrapartida": "0.00",
+            "objeto": "Aditamento de prazo do TC 013/CIDADES/2013."
+        },
+        {
+            "codigo": null,
+            "termo": "Termo 411081",
+            "dataInicioVigencia": "2017-07-01",
+            "dataFimVigencia": "2018-12-30",
+            "dataPublicacao": "2017-07-12",
+            "valorConcessao": "0.00",
+            "valorContrapartida": "0.00",
+            "objeto": "Aditar, em 18 meses, o TC 013/CIDADES/2013"
+        },
+        {
+            "codigo": null,
+            "termo": "Termo 426758",
+            "dataInicioVigencia": "2018-12-31",
+            "dataFimVigencia": "2020-06-28",
+            "dataPublicacao": "2019-01-18",
+            "valorConcessao": "0.00",
+            "valorContrapartida": "0.00",
+            "objeto": "Quarto Termo Aditivo ao TC 013/CIDADES/2013 prorrogando o prazo de vigência por mais 18 (dezoito) meses a partir da data de assinatura deste Termo Aditivo."
+        },
+        {
+            "codigo": null,
+            "termo": "Termo 442867",
+            "dataInicioVigencia": "2020-06-29",
+            "dataFimVigencia": "2021-05-26",
+            "dataPublicacao": "2020-07-24",
+            "valorConcessao": "0.00",
+            "valorContrapartida": "0.00",
+            "objeto": "Quinto Termo Aditivo ao TC 013/CIDADES/2013, fica prorrogado o prazo de vigência por mais 11 (onze) meses a partir da data de assinatura deste Termo Aditivo."
+        },
+        {
+            "codigo": null,
+            "termo": "Termo 452555",
+            "dataInicioVigencia": "2021-05-27",
+            "dataFimVigencia": "2022-05-19",
+            "dataPublicacao": "2021-06-01",
+            "valorConcessao": "0.00",
+            "valorContrapartida": "0.00",
+            "objeto": "Sexto Termo Aditivo ao TC 013/CIDADES/2013, o prazo de vigência do presente termo fica prorrogado por mais 12 (doze) meses, a partir da data de assinatura deste Termo Aditivo."
+        },
+        {
+            "codigo": null,
+            "termo": "Termo 463288",
+            "dataInicioVigencia": "2022-05-20",
+            "dataFimVigencia": "2023-01-19",
+            "dataPublicacao": "2022-06-01",
+            "valorConcessao": "0.00",
+            "valorContrapartida": "0.00",
+            "objeto": "Sétimo Termo Aditivo ao TC 013/CIDADES/2013, o prazo de vigência do presente termo fica prorrogado por mais 08 (oito) meses, a partir da data de assinatura deste Termo Aditivo."
+        },
+        {
+            "codigo": null,
+            "termo": "Termo 466981",
+            "dataInicioVigencia": null,
+            "dataFimVigencia": null,
+            "dataPublicacao": "2022-10-18",
+            "valorConcessao": "4661070.48",
+            "valorContrapartida": "0.00",
+            "objeto": "Oitavo Termo Aditivo ao TC 013/CIDADES/2013, CLÁUSULA PRIMEIRA - DOS RECURSOS ORÇAMENTÁRIOS E FINANCEIROS - Fica acrescido o quantum de R$ 4.661.070,48 (quatro milhões, seiscentos e sessenta e um mil, setenta reais e quarenta e oito centavos), passando o Valor Global do Termo de Cooperação de R$ 17.509.526,16 (Dezessete milhões, quinhentos e nove mil, quinhentos e vinte e seis reais e sessenta e quatro centavos) para R$ 22.170.596,64 (vinte e dois milhões, cento e setenta mil, quinhentos e noventa e seis reais e sessenta e quatro centavos), sendo R$ 19.634.629,21 da Meta 1, referente à execução do objeto, e R$ 2.535.967,43 da Meta 2.\r\nCLÁUSULA SEGUNDA-DA INCLUSÃO DE CONTA CORRENTE Inclui-se a Conta nº 710-1, Agência nº 3080-5. Operação nº 003, Caixa Econômica Federal para movimentação de recursos referentes a Meta 02."
+        },
+        {
+            "codigo": null,
+            "termo": "Termo 469904",
+            "dataInicioVigencia": "2023-01-20",
+            "dataFimVigencia": "2023-08-19",
+            "dataPublicacao": "2023-01-25",
+            "valorConcessao": "0.00",
+            "valorContrapartida": "0.00",
+            "objeto": "Nono Termo Aditivo ao TC 013/CIDADES/2013, o prazo de vigência do presente termo fica prorrogado por mais 07 (sete) meses, a partir da data de assinatura deste Termo Aditivo."
+        }
+    ],
+    "tipoInstrumento": "CONVENIO_DESPESA",
+    "registroConvenio": {
+        "classificadores": [
+            {
+                "codigoTipoClassificador": 109,
+                "valoresClassificador": [
+                    "3009"
+                ]
+            },
+            {
+                "codigoTipoClassificador": 116,
+                "valoresClassificador": [
+                    "57"
+                ]
+            },
+            {
+                "codigoTipoClassificador": 115,
+                "valoresClassificador": [
+                    "177"
+                ]
+            },
+            {
+                "codigoTipoClassificador": 51,
+                "valoresClassificador": [
+                    "07040108000157"
+                ]
+            }
+        ]
+    }
+}
